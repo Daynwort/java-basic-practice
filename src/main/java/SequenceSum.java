@@ -26,14 +26,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class SequenceSum {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Input:");
-        int sequence = scanner.nextInt();
-        System.out.println("Output:");
-        System.out.println(showSequence(sequence));
-    }
-
     public static String showSequence(int value) {
         String res1 = "";
         String result="";

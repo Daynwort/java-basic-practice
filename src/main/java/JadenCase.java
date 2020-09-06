@@ -18,6 +18,21 @@ Note that the Java version expects a return value of null for an empty string or
 */
 
     public String toJadenCase(String phrase) {
-        return "";
+        String resultString = "";
+        if (phrase == null || phrase.isEmpty()){
+            resultString = null;
+        }
+        else {
+            String[] words = phrase.split(" ");
+            for (String word : words) {
+                String first = word.substring(0, 1).toUpperCase();
+                String all = word.substring(1).toLowerCase();
+                resultString += first + all + " ";
+            }
+            resultString.trim();
+        }
+
+        return resultString;
+
     }
 }
