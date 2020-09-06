@@ -22,9 +22,36 @@ Output: 0 = 0
 
 */
 
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class SequenceSum {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Input:");
+        int sequence = scanner.nextInt();
+        System.out.println("Output:");
+        System.out.println(showSequence(sequence));
+    }
 
     public static String showSequence(int value) {
-        return "";
+        String res1 = "";
+        String result="";
+        if (value < 0){
+            System.out.println(value < 0);
+        }
+        if (value == 0){
+            System.out.println(value == 0);
+        }
+        if (value > 0){
+            int sum = 0;
+            for (int i = 0; i <= value ; i++) {
+                sum = sum + i;
+                res1 = res1 + i + "+";
+            }
+            result = res1.substring(0, res1.length()-1)+ " = " + sum;
+        }
+
+        return result;
     }
 }
