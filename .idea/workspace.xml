@@ -1,10 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ce37388-2c4f-471b-a34a-3f69be4fdea4" name="Default Changelist" comment="done Dubster.java&#10;del unused strings in SequenceSum.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunManager" selected="JUnit.JadenTextTests">
+    <configuration name="Dubster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dubster" />
+      <module name="java-basic-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubsterSongDecoderTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-basic-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DubsterSongDecoderTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubsterSongDecoderTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-basic-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DubsterSongDecoderTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JadenTextTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-basic-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JadenTextTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JadenTextTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-basic-practice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JadenTextTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JadenTextTests" />
+        <item itemvalue="JUnit.JadenTextTests.test" />
+        <item itemvalue="JUnit.DubsterSongDecoderTests" />
+        <item itemvalue="Application.Dubster" />
+        <item itemvalue="JUnit.DubsterSongDecoderTests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="done SequenceSum.java">
+      <created>1599378761057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599378761057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done Dubster.java">
+      <created>1599379989528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599379989528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done Dubster.java&#10;del unused strings in SequenceSum.java">
+      <created>1599382331519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599382331519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="done Dubster.java&#10;del unused strings in SequenceSum.java">
+      <created>1599382520862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599382520862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done SequenceSum.java" />
+    <MESSAGE value="done Dubster.java" />
+    <MESSAGE value="done Dubster.java&#10;del unused strings in SequenceSum.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="done Dubster.java&#10;del unused strings in SequenceSum.java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1599382130626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1599382130626" />
+    <state x="538" y="262" key="Github.ShareDialog" timestamp="1599376168811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1599376168811" />
+    <state x="344" y="69" key="Github.UntrackedFilesDialog" timestamp="1599376177075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599376177075" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1599382262390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599382262390" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1599382262389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599382262389" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1599382262388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599382262388" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1599382262389">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599382262389" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1599382243771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599382243771" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1599382243770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599382243770" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1599382243770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599382243770" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1599382243770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599382243770" />
+    <state x="330" y="66" key="RollbackChangesDialog" timestamp="1599376454797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599376454797" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599382527804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599382527804" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JadenCase.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
